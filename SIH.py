@@ -828,7 +828,7 @@ with col1:
  st.write(" ")
  st.write(" ")
  st.write(" ")
- st.image(r"Surya\Model Arch1.gif",use_column_width=True,caption="Liveness Model @EDGE")
+ st.image(r"Model Arch1.gif",use_column_width=True,caption="Liveness Model @EDGE")
 with col2:
  with st.container(border=True):
   st.markdown("""
@@ -858,7 +858,7 @@ with col21:
  st.write(" ")
  st.write(" ")
  st.write(" ")
- st.image("Surya\Model Arch11.gif",use_column_width=True,caption="Face-Embedding Model @Cloud")
+ st.image("Model Arch11.gif",use_column_width=True,caption="Face-Embedding Model @Cloud")
 with col11:
  with st.container(border=True):
   
@@ -888,7 +888,7 @@ with col13:
  with ds1:
   st.write(" ")
   st.write(" ")
-  st.image("Surya\Login1.gif",use_column_width=True,caption="First Time Login")
+  st.image("Login1.gif",use_column_width=True,caption="First Time Login")
  with ds2:
   data = pd.read_csv("random_keys.csv")
   st.write("**Database:**")
@@ -966,9 +966,9 @@ with col421:
     place_toggle = _col2.toggle(' ', False)
 
     if place_toggle:
-      st.image(r'Surya\Login2T1.gif', use_column_width=True, caption='Production Phase')
+      st.image(r'Login2T1.gif', use_column_width=True, caption='Production Phase')
     else:
-      st.image(r'Surya\Login2T.gif', use_column_width=True, caption='Testing Phase')
+      st.image(r'Login2T.gif', use_column_width=True, caption='Testing Phase')
 
 
  st.warning("""
@@ -1018,9 +1018,9 @@ with col15:
     gog_toggle = _col2.toggle('  ', False)
 
     if gog_toggle:
-      st.image(r'Surya\block-p.gif', use_column_width=True, caption='Production Phase')
+      st.image(r'block-p.gif', use_column_width=True, caption='Production Phase')
     else:
-      st.image(r'Surya\block-t.gif', use_column_width=True, caption='Testing Phase')
+      st.image(r'block-t.gif', use_column_width=True, caption='Testing Phase')
 
 
  st.markdown("""
@@ -1072,7 +1072,7 @@ with box24:
 col4311,col4321 = box24.columns([1,1.4])
 with col4321:
  st.write(" ")
- st.image("Surya\edge.gif",use_column_width=True,caption="Edge Model Block")
+ st.image("edge.gif",use_column_width=True,caption="Edge Model Block")
  with st.container(border=True):
   st.markdown("""
 ### Client-side:
@@ -1115,7 +1115,7 @@ with col115:
  st.write(" ")
  st.write(" ")
  st.write(" ")
- st.image("Surya\cloud.gif",use_column_width=True,caption='Cloud Model Block')
+ st.image("cloud.gif",use_column_width=True,caption='Cloud Model Block')
  st.warning("**Note:** This Server is Hosted in a Very Secured Environment where only the Admin Can Access everything")
 with col125:
  with st.container(border=True):
@@ -1149,7 +1149,7 @@ with col4321:
  st.write(" ")
  st.write(" ")
  st.write(" ")
- st.image("Surya\m.gif",use_column_width=True,caption='Admin Panel Features')
+ st.image("m.gif",use_column_width=True,caption='Admin Panel Features')
 
 with col4311:
    with st.container(border=True):
