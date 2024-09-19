@@ -12,7 +12,7 @@
 #     <h1 style="text-align: center; text-decoration: underline;">🏛️Smart India Hackathon: Architecture & Workflows🏛️</h1>
 # """, unsafe_allow_html=True)
 
-# @st.dialog("Note from 'The Team'",width='large')
+# @st.dialog("Note from 'The Horizon'",width='large')
 # def poping():
 #     st.markdown("""
 #         <style>
@@ -60,7 +60,7 @@
 #         <div class="intro">
 #             <p class="emoji">👋 Hello Judges!</p>
 #             <p>First of all, <span class="highlight">thank you for clicking this link</span>! If you're here, it means we've successfully piqued your interest with our approach. Curious about the details of our solution? <span class="emphasis">No worries!</span></p>
-#             <p>This page has been designed by <span class="highlight">"The Team"</span> from <span class="highlight1">Chennai Institute of Technology</span> to provide you with an even clearer insight into our work. <span class="emphasis">Let's dive in and enjoy the journey! 🚀</span></p>
+#             <p>This page has been designed by <span class="highlight">"The Horizon"</span> from <span class="highlight1">Chennai Institute of Technology</span> to provide you with an even clearer insight into our work. <span class="emphasis">Let's dive in and enjoy the journey! 🚀</span></p>
 #         </div>
 #     """, unsafe_allow_html=True)
     
@@ -153,7 +153,7 @@
 # #     </style>
 # #     """, unsafe_allow_html=True)
 
-# #     st.markdown('<h1 class="title">🚀 The Team: Crazy Gang from CIT 🚀</h1>', unsafe_allow_html=True)
+# #     st.markdown('<h1 class="title">🚀 The Horizon: Crazy Gang from CIT 🚀</h1>', unsafe_allow_html=True)
 
 # #     col1, col2 = st.columns(2)
 
@@ -163,7 +163,7 @@
 # #             <div class="card">
 # #                 <h1 class="subtitle">🌟 Introduction</h1>
 # #                 <p class="content">
-# #                     Welcome to our project! We are <span class="highlight">"The Team"</span>, a dynamic group from 
+# #                     Welcome to our project! We are <span class="highlight">"The Horizon"</span>, a dynamic group from 
 # #                     <span class="highlight">CIT (Chennai Institute of Technology)</span>. We’ve taken on the 
 # #                     challenge presented in Problem Statement <span class="highlight">SIH1670</span>, aiming to develop a 
 # #                     robust solution that integrates the security of the ML model published by the 
@@ -571,7 +571,7 @@
 #     }
 #     </style>
 #     <div class="claim">
-#         ⚠️ ATTENTION: ALL RIGHTS RESERVED @The Team ⚠️<br>
+#         ⚠️ ATTENTION: ALL RIGHTS RESERVED @The Horizon ⚠️<br>
 #         <span class="warning">Any unauthorized use, duplication, or distribution of this content will be met with severe legal action. </span><br>
 #         <span class="alert">Violators will face heavy charges and legal repercussions. We strictly protect our intellectual property. Proceed with caution!</span>
 #     </div>
@@ -597,7 +597,7 @@ st.markdown("""
     <h1 style="text-align: center; text-decoration: underline;">🏛️Smart India Hackathon: Architecture & Workflows🏛️</h1>
 """, unsafe_allow_html=True)
 
-@st.dialog("Note from 'The Team'",width='large')
+@st.dialog("Note from 'The Horizon'",width='large')
 def poping():
     st.markdown("""
         <style>
@@ -645,7 +645,7 @@ def poping():
         <div class="intro">
             <p class="emoji">👋 Hello Judges!</p>
             <p>First of all, <span class="highlight">thank you for clicking this link</span>! If you're here, it means we've successfully piqued your interest with our approach. Curious about the details of our solution? <span class="emphasis">No worries!</span></p>
-            <p>This page has been designed by <span class="highlight">"The Team"</span> from <span class="highlight1">Chennai Institute of Technology</span> to provide you with an even clearer insight into our work. <span class="emphasis">Let's dive in and enjoy the journey! 🚀</span></p>
+            <p>This page has been designed by <span class="highlight">"The Horizon"</span> from <span class="highlight1">Chennai Institute of Technology</span> to provide you with an even clearer insight into our work. <span class="emphasis">Let's dive in and enjoy the journey! 🚀</span></p>
         </div>
     """, unsafe_allow_html=True)
     
@@ -738,7 +738,7 @@ poping()
 #     </style>
 #     """, unsafe_allow_html=True)
 
-#     st.markdown('<h1 class="title">🚀 The Team: Crazy Gang from CIT 🚀</h1>', unsafe_allow_html=True)
+#     st.markdown('<h1 class="title">🚀 The Horizon: Crazy Gang from CIT 🚀</h1>', unsafe_allow_html=True)
 
 #     col1, col2 = st.columns(2)
 
@@ -748,7 +748,7 @@ poping()
 #             <div class="card">
 #                 <h1 class="subtitle">🌟 Introduction</h1>
 #                 <p class="content">
-#                     Welcome to our project! We are <span class="highlight">"The Team"</span>, a dynamic group from 
+#                     Welcome to our project! We are <span class="highlight">"The Horizon"</span>, a dynamic group from 
 #                     <span class="highlight">CIT (Chennai Institute of Technology)</span>. We’ve taken on the 
 #                     challenge presented in Problem Statement <span class="highlight">SIH1670</span>, aiming to develop a 
 #                     robust solution that integrates the security of the ML model published by the 
@@ -1199,7 +1199,7 @@ st.markdown("""
     }
     </style>
     <div class="claim">
-        ⚠️ ATTENTION: ALL RIGHTS RESERVED @The Team ⚠️<br>
+        ⚠️ ATTENTION: ALL RIGHTS RESERVED @The Horizon ⚠️<br>
         <span class="warning">Any unauthorized use, duplication, or distribution of this content will be met with severe legal action. </span><br>
         <span class="alert">Violators will face heavy charges and legal repercussions. We strictly protect our intellectual property. Proceed with caution!</span>
     </div>
